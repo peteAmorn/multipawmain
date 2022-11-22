@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "424595008006",
+    "project_id": "multipawsmain",
+    "storage_bucket": "multipawsmain.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424595008006:android:2554bcbdb078e2d6be3187",
+        "android_client_info": {
+          "package_name": "com.multipawsmain2534.multipawsmain"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "424595008006-ftk9gsg9tv8ig9n12rhoiqv5pn2khgtp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.multipawsmain2534.multipawsmain",
+            "certificate_hash": "c1f62d6894d0905e42d27f1e2c3bfec36364a03b"
+          }
+        },
+        {
+          "client_id": "424595008006-mt31sdv6n5pnrojit68g6ftc1h7avhfn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.multipawsmain2534.multipawsmain",
+            "certificate_hash": "a1e95b49e6a49c98d6df8253901f87c709f2e619"
+          }
+        },
+        {
+          "client_id": "424595008006-nt35md1jvip0tg21nq00c1akfjumtrmo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPAWRM3A3n4W32gjpJ2Tlslcqjk8SWB-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "424595008006-nt35md1jvip0tg21nq00c1akfjumtrmo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "424595008006-7oj9p86an2hbc40a8mqe7u5vjl36qh0p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.multipawsmain2534.multipawsmain"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
